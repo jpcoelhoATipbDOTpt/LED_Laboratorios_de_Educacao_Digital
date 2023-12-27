@@ -6,7 +6,7 @@ Utilização e Programação da Plataforma ARDUINO
 Professores do ensino básico e secundário (área de Física e Química)
 ## Objetivos:
 * Entender o conceito de microcontrolador;
-* Realizar a sua programação utilizando a linguagem gráfica Scratch;
+* Realizar a sua programação utilizando a linguagem gráfica Snap!;
 * Integrar a plataforma Arduino em ensaios laboratoriais específicos da área de Física e Química.
 ## Material:	
 Computador portátil ou equivalente, com sistema operativo Windows (10 ou superior) e plataforma de desenvolvimento Arduino Uno.

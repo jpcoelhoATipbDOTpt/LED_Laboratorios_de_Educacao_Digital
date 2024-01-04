@@ -1,5 +1,5 @@
 # LED - Laboratórios de Educação Digital
-Curso de programação para a plataforma Arduino para docentes do ensino básico/secundário
+Workshop de programação para a plataforma Arduino destinado docentes do ensino básico/secundário
 ## Tema:	
 Utilização e Programação da Plataforma ARDUINO
 ## Destinatários:	
